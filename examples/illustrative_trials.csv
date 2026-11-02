@@ -1,0 +1,14 @@
+method,campaign,minutes,defects_found,defects_planted
+# ILLUSTRATIVE SAMPLE: invented numbers to show the method. Replace with your own timed runs.,,,,
+manual,C01,22,2,3
+manual,C02,18,1,2
+manual,C03,25,3,3
+manual,C04,19,1,2
+manual,C05,27,2,4
+manual,C06,21,2,2
+tool,C07,9,3,3
+tool,C08,7,2,2
+tool,C09,11,3,3
+tool,C10,8,2,2
+tool,C11,12,3,4
+tool,C12,9,2,2
