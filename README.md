@@ -52,3 +52,16 @@ Not measured: setup time, false alarms, maintenance, or whether people trust the
 The example file is an **illustrative sample with invented numbers**, there to show the method. To measure your own saving: copy `trials_template.csv`, time yourself checking planted-defect campaigns (see [safe-to-send-10](https://github.com/sghatge/safe-to-send-10-synthetic-market)) both ways, and run it on your file.
 
 MIT · [Sangram Ghatge](https://www.linkedin.com/in/sangram-g-2369705b) · #SafeToSend
+
+
+---
+
+## Portfolio integration & safe use
+
+This repository is part of the **Safe to Send** 28-episode engineering series on governed AI for CRM and marketing operations.
+
+- [Series index and episode map](https://github.com/sghatge/safe-to-send-21-series-map)
+- [Complete portfolio](https://github.com/sghatge/sghatge)
+- [OPSFORGE Build Lab](https://sghatge.streamlit.app/) — portfolio overview; this repository remains independently usable without the Build Lab.
+
+**Safe-use boundary:** use the supplied examples and synthetic data for evaluation. Review the implementation, dependencies and tests before adapting it. Do not connect it to a production CRM, customer dataset or activation endpoint without a separate security, privacy and change-control review. No production integration or deployment is implied by this repository.
